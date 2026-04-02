@@ -14,7 +14,7 @@ The dashboard enables users to explore how different fish species and regions co
 - Enable dynamic filtering for deeper business insights
 
 ### Dashboard Preview
-[Dashboard Preview](Stallion.png)
+![Stallion.png](https://github.com/lary85/Fish-sales-and-profit-analysis-dashboard/raw/main/Stallion%20.png)
 
 ### Key Metrics
 1) Total Revenue: ₦10.9bn
