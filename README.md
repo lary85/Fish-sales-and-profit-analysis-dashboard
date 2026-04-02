@@ -37,42 +37,44 @@ Identifies dips and recovery periods in business performance
 - Geographical Insights
 Map visualization showing profit distribution across states.
 Enables quick identification of high and low-performing regions
-  - KPI Tracking
-Real-time KPI comparison against set targets.
+- KPI Tracking
+  - Real-time KPI comparison against set targets.
 Example: Profit exceeding goal by 20%+.
 - Interactive Filtering
-Filter by:
-Year (2019–2023)
-Fish Species
+- Filter by:
+  - Year (2019–2023)
+  - Fish Species
 Enables dynamic exploration of the dataset
+
 ### Tools & Technologies
 - Microsoft Power BI – Data visualization and dashboard creation
 - DAX (Data Analysis Expressions) – KPI calculations and measures
 - Power Query – Data transformation and cleaning
 - Excel Dataset – Source data
+  
 ### Insights & Findings
 - Lagos contributes the highest share of total profit, followed by Rivers.
 - Profit performance varies significantly across states, indicating regional disparities.
 - Certain fish species dominate revenue and profitability.
 - Profit trends show fluctuations, with noticeable dips and recovery periods over time.
 - Overall business performance remains strong, exceeding KPI targets.
+  
 ### Business Impact
 This dashboard helps stakeholders to:
-1) Identify high-performing regions and optimize resource allocation
-2) Monitor profitability and cost efficiency
-3) Make data-driven decisions on product focus (fish species)
-4) Track performance against business goals
-5) Improve strategic planning using historical trends
+1) Identify high-performing regions and optimize resource allocation.
+2) Monitor profitability and cost efficiency.
+3) Make data-driven decisions on product focus (fish species).
+4) Track performance against business goals.
+5) Improve strategic planning using historical trends.
+   
 ### How to Use
 1) Download the .pbix file from this repository,
 2) Open in Microsoft Power BI Desktop.
 3) Use the slicers (Year and Fish Species) to filter the data.
 4) Explore visuals to gain insights into sales and profit performance.
-### Contact
 
+### Contact
 Hillary Okoronkwo
 - Email: Hillstunning@gmail.com
-- LinkedIn: [Your LinkedIn Profile]
-
 
 If you found this project helpful, give it a star ⭐ and feel free to connect!
