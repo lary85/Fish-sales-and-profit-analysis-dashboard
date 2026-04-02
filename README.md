@@ -14,7 +14,7 @@ The dashboard enables users to explore how different fish species and regions co
 - Enable dynamic filtering for deeper business insights
 
 ### Dashboard Preview
-📊 Executive Dashboard
+[Dashboard Preview](Stallion.png)
 
 ### Key Metrics
 1) Total Revenue: ₦10.9bn
